@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+    font-family: "Poppins",sans-serif;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: azure;
+}
+ul{
+    font-size: 20px;
+    text-align: center;
+}
