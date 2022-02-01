@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+    font-family: "Poppins",sans-serif;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: azure;
+}
+h2{
+    text-align: left;
+    color: azure;
+    margin-left: 40px;
+}
+ol{
+    font-size: 20px;
+    text-align: left;
+    color: azure;
+    margin-left: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
